@@ -163,7 +163,6 @@
 
 - [x] 大牛直播技术交流群1(已满): [499687479](http:////shang.qq.com/wpa/qunwpa?idkey=e7686f68a39bf1b95dc2ac3b775867efc7d3cbaf3596daf6e12bc1df21e1dc59)	
 
-或者直接从私有服务器下载(Windows提供C#/C++ demo, android提供android studio demo，iOS提供xcode demo)：	
 
 ## 大牛直播SDK相关demo介绍 ##	
 
